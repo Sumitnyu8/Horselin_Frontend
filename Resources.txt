@@ -1,0 +1,15 @@
+https://preview.themeforest.net/item/horselin-elegant-animals-multipage-html5-template/full_screen_preview/32426300?_ga=2.12694647.133315734.1677052809-1616683891.1677052809 
+
+colours : main color : #ACD25F
+	  second colr : #FFFFFF
+	  Heading color : #292929
+	  Text color : #7C7C7C
+	  Date color : #00000080
+
+
+Icons : 
+
+
+Fonts : Roboto & Roboto Slab
+	text-roboto
+	heading-roboto-slab

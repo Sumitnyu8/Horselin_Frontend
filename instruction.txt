@@ -1,0 +1,4 @@
+Font :
+
+
+first download fonts and then unzipp it then change it's extension from tff to wof & wof2 then copy its css file and paste in css and then name it font.css and link it with wour html file.

@@ -1,0 +1,566 @@
+@media (max-width:575px) {
+    .container{
+        width: 100%;
+    }
+    .d-xs-none{
+        display: none;
+    }
+    .d-xs-block{
+        display: block;
+    }
+    .d-xs-flex{
+        display: flex;
+    }
+    .justify-content-xs-center{
+        justify-content:center;
+    }
+    .w-xs-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-xs-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-xs-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-xs-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-xs-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-xs-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-xs-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-xs-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-xs-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-xs-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-xs-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-xs-12{
+        width: 100%;
+        padding:15px;
+    }
+    /* banner-section */
+    .banner{
+        /* background-size: cover; */
+        height: 500px;
+    }
+    .banner .banner-page .banner-content h3{
+        font-size: 22px;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 70px;
+        margin-bottom: 30px;
+    }
+    .banner-content p{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /* testimonial-section */
+    .section-title{
+        font-size: 36px;
+    }
+    .testimonial-content .review p{
+        padding: 0 20px;
+        line-height: 1.7;
+    }
+    .border-xs-0{
+        border: 0;
+    }
+    /* Our Team */
+    .team-headline p{
+        padding-left: 30px;
+        padding-right: 35px;
+    }
+    /* footer */
+    .foot .f-contact-area{
+        order:-1;
+    }
+}
+@media (min-width:576px) {
+    .container{
+        width: 540px;
+    }
+    .d-s-none{
+        display: none;
+    }
+    .d-s-block{
+        display: block;
+    }
+    .d-s-flex{
+        display: flex;
+    }
+    .justify-content-s-center{
+        justify-content:center;
+    }
+    .w-s-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-s-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-s-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-s-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-s-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-s-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-s-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-s-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-s-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-s-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-s-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-s-12{
+        width: 100%;
+        padding:15px;
+    }
+    .banner{
+        background-size: cover;
+        height: 500px;
+    }
+    .banner .banner-page .banner-content h3{
+        font-size: 22px;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 70px;
+        font-weight: 400;
+    }
+    .banner-content p{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    /* testimonial-section */
+    .section-title{
+        font-size: 36px;
+    }
+    .testimonial-content .review p{
+        padding: 0 20px;
+        line-height: 1.7;
+    }
+    .border-s-0{
+        border: 0;
+    }
+    /* Our Team */
+    .team-headline p{
+        padding-left: 30px;
+        padding-right: 35px;
+    }
+    .foot .f-contact-area{
+        order:-1;
+    }
+}
+@media (min-width:768px) {
+    .container{
+        width: 720px;
+    }
+    .d-m-none{
+        display: none;
+    }
+    .d-m-block{
+        display: block;
+    }
+    .d-m-flex{
+        display: flex;
+    }
+    .justify-content-m-center{
+        justify-content:center;
+    }
+    .justify-content-m-left{
+        justify-content: left;
+    }
+    .w-m-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-m-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-m-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-m-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-m-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-m-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-m-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-m-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-m-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-m-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-m-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-m-12{
+        width: 100%;
+        padding:15px;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 100px;
+        font-weight: 400;
+    }
+    .banner{
+        background-size: cover;
+        min-height: 90vh;
+    }
+    /* testimonial-section */
+    .section-title{
+        font-size: 36px;
+    }
+    .testimonial-content .review p{
+        padding: 0 20px;
+        line-height: 1.7;
+    }
+    .border-m-0{
+        border: 0;
+    }
+    /* Our Team */
+    .team-headline p{
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    .foot .f-contact-area{
+        order:-1;
+    }
+}
+
+@media (min-width:992px) {
+    .container{
+        width: 960px;
+    }
+    .d-l-none{
+        display: none;
+    }
+    .d-l-block{
+        display: block;
+    }
+    .d-l-flex{
+        display: flex;
+    }
+    .justify-content-l-center{
+        justify-content:center;
+    }
+    .w-l-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-l-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-l-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-l-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-l-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-l-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-l-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-l-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-l-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-l-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-l-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-l-12{
+        width: 100%;
+        padding:15px;
+    }
+    /* .p-l-nav{
+        padding: 20px 0px;
+    } */
+    nav .list {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 110px;
+    }
+    .banner-content p{
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+    /* testimonial-section */
+    .testimonial-content .review p{
+        padding: 0 150px;
+        line-height: 1.7;
+    }
+    /* Our Team */
+    .team-headline p{
+        padding-left: 230px;
+        padding-right: 230px;
+    }
+    .foot .f-contact-area{
+        order:0;
+    }
+}
+@media (min-width:1200px) {
+    .container{
+        width: 1140px;
+    }
+    .d-xl-none{
+        display: none;
+    }
+    .d-xl-block{
+        display: block;
+    }
+    .d-xl-flex{
+        display: flex;
+    }
+    .justify-content-xl-center{
+        justify-content:center;
+    }
+    .w-xl-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-xl-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-xl-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-xl-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-xl-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-xl-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-xl-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-xl-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-xl-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-xl-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-xl-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-xl-12{
+        width: 100%;
+        padding:15px;
+    }
+    nav .list {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .banner .banner-page .banner-content h3{
+        font-size: 26px;
+    }
+    .banner-content p{
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 140px;
+        font-weight: 400;
+    }
+    /* testimonial-section */
+    .section-title{
+        font-size: 47px;
+    }
+    .testimonial-content .review p{
+        padding: 0 220px;
+        line-height: 1.7;
+    }
+    /* Our Team */
+    .team-headline p{
+        padding-left: 300px;
+        padding-right: 300px;
+    }
+    
+}
+@media (min-width:1400px) {
+    .container{
+        width: 1320px;
+    }
+    .d-xxl-none{
+        display: none;
+    }
+    .d-xxl-block{
+        display: block;
+    }
+    .d-xs-flex{
+        display: flex;
+    }
+    .justify-content-xxl-center{
+        justify-content:center;
+    }
+    .w-xxl-1{
+        width: 8.33%;
+        padding:15px;
+    }
+    .w-xxl-2{
+        width: 16.66%;
+        padding:15px;
+    }
+    .w-xxl-3{
+        width: 25%;
+        padding:15px;
+    }
+    .w-xxl-4{
+        width: 33.33%;
+        padding:15px;
+    }
+    .w-xxl-5{
+        width: 41.66%;
+        padding:15px;
+    }
+    .w-xxl-6{
+        width: 50%;
+        padding:15px;
+    }
+    .w-xxl-7{
+        width: 58.33%;
+        padding:15px;
+    }
+    .w-xxl-8{
+        width: 66.66%;
+        padding:15px;
+    }
+    .w-xxl-9{
+        width: 75%;
+        padding:15px;
+    }
+    .w-xxl-10{
+        width: 83.33%;
+        padding:15px;
+    }
+    .w-xxl-11{
+        width: 91.66%;
+        padding:15px;
+    }
+    .w-xxl-12{
+        width: 100%;
+        padding:15px;
+    }
+    .banner .banner-page .banner-content h3{
+        font-size: 26px;
+    }
+    .banner-content p{
+        padding-left: 250px;
+        padding-right: 250px;
+    }
+    .banner .banner-page .banner-content h1{
+        font-size: 140px;
+        font-weight: 400;
+    }
+    /* testimonial-section */
+    .section-title{
+        font-size: 47px;
+    }
+    .testimonial-content .review p{
+        padding: 0 300px;
+        line-height: 1.7;
+    }
+}
